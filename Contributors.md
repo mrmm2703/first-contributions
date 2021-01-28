@@ -7811,4 +7811,5 @@
 - [Varghese Jose](https://github.com/hasthamalp/)
 - [Michael Vigato](https://github.com/vgtmhl/)
 - [Liam Cooper](https://github.com/LiamCoopR/)
+- [Moseti](https://github.com/moseti1/)
 
